@@ -1,4 +1,4 @@
-## Hi, I’m Kabiru 👋
+## Hi, I’m Kabiru 
 
 I work across data science, econometrics, data engineering, and database
 development, with a strong focus on understanding structure, dynamics,
